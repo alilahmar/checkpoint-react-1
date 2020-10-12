@@ -1,0 +1,36 @@
+.bg-light{
+  background-color: #515A5A   !important; 
+}
+.navbar-light .navbar-nav .nav-link:hover {
+  color: rgb(241, 239, 239);
+  background-color: rgba(80, 175, 80, 0.1);
+}
+header.App-header {
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+.carousel-item img {
+  height: 80vh;
+  object-fit: cover;
+}
+.carousel-caption h3 {
+  color: black;
+}
+
+.carousel-caption p {
+  color: black;
+}
+.carousel-caption {
+  color: black;
+  bottom: 38%;
+}
+form {
+  background-color: #515A5A !important; 
+  opacity: revert;
+}
+.form-control {
+  width: 30% !important;
+}
